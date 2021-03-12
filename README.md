@@ -1,2 +1,1 @@
-# tindog
-Find your dogs true love.
+TinDog Starting Files

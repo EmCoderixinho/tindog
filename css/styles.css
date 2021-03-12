@@ -1,0 +1,136 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+
+  font-family: 'Montserrat';
+  line-height: 1.5;
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+#features{
+
+  padding: 7% 15% 0;
+  position: relative;
+  z-index: 1;
+  bottom: 6.7rem;
+  background-color: white;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.naslov {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.centriraj {
+  text-align: center;
+}
+
+.smanji {
+
+  height: 55rem;
+  /* margin-bottom: 9rem; */
+}
+
+.oboji {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family: 'Ubuntu';
+  font-weight: bold;
+}
+
+.rotate {
+  background-color: transparent;
+  /* outline: 2px dashed; */
+  transform: rotate(15deg);
+  width: 70%;
+  position: relative;
+  left: 30px;
+  top: 7px;
+}
+
+.oboji:hover{
+
+  color: red;
+}
+
+.testimonial-img{
+
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+
+#press{
+
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img{
+
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.karosel-padding{
+
+  padding: 7% 15%;
+}
+
+/* Pricing dio */
+
+.pricing-kolona{
+
+  padding: 3% 2%;
+}
+
+#pricing{
+
+  padding: 100px;
+  text-align: center;
+}
